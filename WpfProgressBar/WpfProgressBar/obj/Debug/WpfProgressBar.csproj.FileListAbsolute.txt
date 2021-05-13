@@ -1,0 +1,15 @@
+D:\Sheeba\WPFSamples\Activities\Activity3\WpfProgressBar\WpfProgressBar\bin\Debug\WpfProgressBar.exe.config
+D:\Sheeba\WPFSamples\Activities\Activity3\WpfProgressBar\WpfProgressBar\bin\Debug\WpfProgressBar.exe
+D:\Sheeba\WPFSamples\Activities\Activity3\WpfProgressBar\WpfProgressBar\bin\Debug\WpfProgressBar.pdb
+D:\Sheeba\WPFSamples\Activities\Activity3\WpfProgressBar\WpfProgressBar\obj\Debug\WpfProgressBar.csprojAssemblyReference.cache
+D:\Sheeba\WPFSamples\Activities\Activity3\WpfProgressBar\WpfProgressBar\obj\Debug\MainWindow.g.cs
+D:\Sheeba\WPFSamples\Activities\Activity3\WpfProgressBar\WpfProgressBar\obj\Debug\App.g.cs
+D:\Sheeba\WPFSamples\Activities\Activity3\WpfProgressBar\WpfProgressBar\obj\Debug\WpfProgressBar_MarkupCompile.cache
+D:\Sheeba\WPFSamples\Activities\Activity3\WpfProgressBar\WpfProgressBar\obj\Debug\WpfProgressBar_MarkupCompile.lref
+D:\Sheeba\WPFSamples\Activities\Activity3\WpfProgressBar\WpfProgressBar\obj\Debug\MainWindow.baml
+D:\Sheeba\WPFSamples\Activities\Activity3\WpfProgressBar\WpfProgressBar\obj\Debug\WpfProgressBar.g.resources
+D:\Sheeba\WPFSamples\Activities\Activity3\WpfProgressBar\WpfProgressBar\obj\Debug\WpfProgressBar.Properties.Resources.resources
+D:\Sheeba\WPFSamples\Activities\Activity3\WpfProgressBar\WpfProgressBar\obj\Debug\WpfProgressBar.csproj.GenerateResource.cache
+D:\Sheeba\WPFSamples\Activities\Activity3\WpfProgressBar\WpfProgressBar\obj\Debug\WpfProgressBar.csproj.CoreCompileInputs.cache
+D:\Sheeba\WPFSamples\Activities\Activity3\WpfProgressBar\WpfProgressBar\obj\Debug\WpfProgressBar.exe
+D:\Sheeba\WPFSamples\Activities\Activity3\WpfProgressBar\WpfProgressBar\obj\Debug\WpfProgressBar.pdb
